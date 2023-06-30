@@ -14,17 +14,6 @@ For the current version, the following features are implemented,
 4. [Deployment Instructions](#deployment-instructions)
 
 
-<a name="data-and-database"></a>
-
-## Data and Database 
-5000+ movie_ids from this [movie dataset](https://www.kaggle.com/oxanozaep/imdb-eda/data) are the origin data source. With these movie_ids, I utilized a python lib called [imdbpie](https://pypi.org/project/imdbpie/) to collect other columns of data. 
-
-Currently, there are about **3000 movies** in the database.
-
-To make it easy to deploy, SQLite is chosen as database. The database file is `movie.db` in the root directory.
-
-
-<a name="search-engine"></a>
 
 ## Search Engine and Cache
 
