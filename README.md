@@ -1,3 +1,6 @@
+Download the PROJECT or Clone the Project
+
+
 This is a movie website using **Django** as backend framework and SQLite as database.
 
 For the current version, the following features are implemented, 
